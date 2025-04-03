@@ -50,4 +50,3 @@ Clock and Reset Signals
 | 3       | y_output  | R      | The output value calculated by the DUT |
 | 4       | A_Data    | W      | A Input Data                           |
 | 5       | B_Data    | W      | B Input Data                           |
-...
